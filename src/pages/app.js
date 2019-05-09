@@ -1,10 +1,10 @@
 import React from "react"
 import { Router } from "@reach/router"
-import Layout from "../components/Layout"
-import Details from "../components/Details"
-import Home from "../components/Home"
-import Login from "../components/Login"
-import PrivateRoute from "../components/PrivateRoute"
+import Layout from "../components/Layout.js"
+import Details from "../components/Details.js"
+import Home from "../components/Home.js"
+import Login from "../components/Login.js"
+import PrivateRoute from "../components/PrivateRoute.js"
 
 const App = () => (
   <Layout>
