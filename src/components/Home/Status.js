@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, navigate } from "@reach/router"
 import { getCurrentUser, isLoggedIn, logout } from "../../utils/auth"
-import styles from "./status.module.css"
+import styles from "../layout.css"
 
 export default () => {
   let details

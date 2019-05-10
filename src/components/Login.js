@@ -1,7 +1,7 @@
 import React from "react"
 import { navigate } from "gatsby"
-import Form from "./Form"
-import View from "./View"
+import Form from "./Home/Form.js"
+import View from "./Home/View.js"
 import { handleLogin, isLoggedIn } from "../utils/auth"
 
 class Login extends React.Component {

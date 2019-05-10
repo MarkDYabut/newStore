@@ -1,5 +1,5 @@
 import React from "react"
-import styles from "./form.module.css"
+import styles from "../layout.css"
 import { navigate } from "@reach/router"
 
 export default ({ handleSubmit, handleUpdate }) => (

@@ -1,5 +1,5 @@
 import React from "react"
-import Product from "./Product"
+import Product from "./Product.js"
 import { StaticQuery, graphql } from "gatsby"
 
 const getProducts = graphql`

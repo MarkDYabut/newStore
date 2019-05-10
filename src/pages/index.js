@@ -1,5 +1,5 @@
 import React from "react"
-import View from "../components/View"
+import View from "../components/Home/View.js"
 import { Link } from "gatsby"
 
 import "../components/bootstrap.min.css"

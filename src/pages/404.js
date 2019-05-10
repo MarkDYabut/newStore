@@ -1,6 +1,6 @@
 import React from "react"
 import Layout from "../components/Layout.js"
-import View from "../components/View/index.js"
+import View from "../components/Home/View.js"
 
 const NotFound = () => (
   <Layout>
